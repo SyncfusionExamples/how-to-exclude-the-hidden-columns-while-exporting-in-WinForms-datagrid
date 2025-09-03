@@ -1,7 +1,7 @@
-# How to exclude the Hidden Columns while exporting in WinForms DataGrid (SfDataGrid)?
+# How to exclude the Hidden Columns while exporting in WinForms DataGrid?
 
 ## About the sample
-This example illustrates how to exclude the Hidden Columns while exporting in [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid)?
+This example illustrates how to exclude the Hidden Columns while exporting in WinForms DataGrid.
 
 [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid) does not provide the direct support to exclude the hidden columns while exporting. You can exclude the hidden columns while exporting by using [ExcludeColumns](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGridConverter.ExcelExportingOptions.html#Syncfusion_WinForms_DataGridConverter_ExcelExportingOptions_ExcludeColumns) field in [ExcelExportingOptions](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGridConverter.ExcelExportingOptions.html).
 
